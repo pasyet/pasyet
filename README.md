@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nabila farapasyet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabila farapasyet" height="30" width="40" /></a>
 <a href="https://instagram.com/farapasyett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farapasyett" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@farapasyetnabila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@farapasyetnabila" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/farapasyetnabila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@farapasyetnabila" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pasyet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pasyet" height="30" width="40" /></a>
 <a href="https://discord.gg/nabilafarapasyet#8093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nabilafarapasyet#8093" height="30" width="40" /></a>
 </p>
