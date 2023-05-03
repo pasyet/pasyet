@@ -23,5 +23,3 @@ Hello there! I'm a self-taught Software-Engineer with the purpose of learning as
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasyet&show_icons=true&locale=en&layout=compact" alt="pasyet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasyet&show_icons=true&locale=en" alt="pasyet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasyet&" alt="pasyet" /></p>
